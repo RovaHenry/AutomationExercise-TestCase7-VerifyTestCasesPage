@@ -16,11 +16,13 @@ Steps Covered:
 Tools & Technologies Used:
 
 Automation Framework: Selenium WebDriver
+
 Programming Language: JavaScript
+
 Test Runner/Environment: Mocha
+
 Browser: Google Chrome
 
 Link to Test Case Documentation:
-For more details, visit the official test case documentation:
-Automation Exercise - Test Case 7
+For more details, visit the official test case documentation: Automation Exercise - Test Case 7
 
